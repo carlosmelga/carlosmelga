@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @carlosmelga
 - 👀 I’m interested in games, twitch/discord bots and MUD's
 - 🌱 I’m currently learning nodejs
-- 📫 How to reach me admin@niox-soft.com
